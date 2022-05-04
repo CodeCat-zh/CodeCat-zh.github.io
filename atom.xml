@@ -3,11 +3,11 @@
   <title>CatCode&#39;s Blog</title>
   
   
-  <link href="https://github.com/CodeCat-zh/CodeCat-zh.github.io/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="https://github.com/CodeCat-zh/CodeCat-zh.github.io/"/>
+  <link href="http://example.com/"/>
   <updated>2022-05-04T12:00:28.986Z</updated>
-  <id>https://github.com/CodeCat-zh/CodeCat-zh.github.io/</id>
+  <id>http://example.com/</id>
   
   <author>
     <name>猫咪大作战</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/CodeCat-zh/CodeCat-zh.github.io/2022/05/04/hello-world/"/>
-    <id>https://github.com/CodeCat-zh/CodeCat-zh.github.io/2022/05/04/hello-world/</id>
+    <link href="http://example.com/2022/05/04/hello-world/"/>
+    <id>http://example.com/2022/05/04/hello-world/</id>
     <published>2022-05-04T10:36:30.127Z</published>
     <updated>2022-05-04T12:00:28.986Z</updated>
     
