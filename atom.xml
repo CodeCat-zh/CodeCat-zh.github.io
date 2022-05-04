@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>CatCode&#39;s Blog</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://github.com/CodeCat-zh/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://github.com/CodeCat-zh/"/>
   <updated>2022-05-04T10:36:30.127Z</updated>
-  <id>http://example.com/</id>
+  <id>https://github.com/CodeCat-zh/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>猫咪大作战</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/05/04/hello-world/"/>
-    <id>http://example.com/2022/05/04/hello-world/</id>
+    <link href="https://github.com/CodeCat-zh/2022/05/04/hello-world/"/>
+    <id>https://github.com/CodeCat-zh/2022/05/04/hello-world/</id>
     <published>2022-05-04T10:36:30.127Z</published>
     <updated>2022-05-04T10:36:30.127Z</updated>
     
